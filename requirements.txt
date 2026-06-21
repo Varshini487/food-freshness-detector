@@ -4,4 +4,4 @@ keras
 Pillow
 numpy
 matplotlib
-opencv-python
+openCV-python
